@@ -6,7 +6,7 @@ Xin chân thành cảm ơn tác giả đã đóng góp cho cộng đồng n8n:
 
 [https://github.com/nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz)
 
-# [https://n8nworkflows.vn](https://n8nworkflows.vn)
+# [n8nworkflows.vn](https://n8nworkflows.vn)
 
 Kho lưu trữ độc lập các workflow n8n được tổng hợp từ thư viện workflow chính thức của n8n. Dự án cho phép lưu trữ, quản lý phiên bản và tái sử dụng các workflow dưới định dạng JSON tối giản, sẵn sàng để import và sử dụng ngoại tuyến.
 
